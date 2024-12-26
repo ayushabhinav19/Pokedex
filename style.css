@@ -1,0 +1,149 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+header {
+    position: fixed;
+      top: 0; 
+      left: 0; 
+      right: 0px;
+      width: 100%; 
+    border: 2px solid black;
+    background:linear-gradient(80deg,bisque,beige); 
+    z-index: 1000;
+
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+
+.title{
+    text-align: center;
+    margin: 0px;
+}
+
+
+#search{
+    width: 150px;
+    height: 20px;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 10px;
+    color: red;
+}
+
+
+body{
+    background: linear-gradient(80deg, rgb(170, 44, 44), rgb(149, 60, 212));
+}
+
+
+.outerbox {
+    background: linear-gradient(80deg, rgb(170, 44, 44), rgb(149, 60, 212));
+    margin-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+}
+
+
+.cardbox {
+    border: 2px solid yellow;
+    background-color: aliceblue;
+    height: 220px;
+    width: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 30px;
+    box-shadow: 0px 2px 10px 0px;
+    margin: 10px;
+    cursor:crosshair;
+    transition: all 2s ease-in-out;
+    
+}
+
+
+
+#image { 
+    display: flex;
+    height: 150px;
+    width: 160px;
+    /* mix-blend-mod; */
+    background-color:transparent;
+   overflow: hidden;
+
+}
+
+
+.charactername {
+    color: red;
+    margin: 0px;
+    padding: 0px;
+    height: 45px;
+    width: 130px;
+    text-align: center;
+    background-color:none;
+}
+
+
+.cardbox:hover {
+    background-color: rgb(125, 234, 115);
+    transform: rotate(45deg) scale(1.5);
+    z-index: 1001;
+}
+
+
+.cardbox:hover #image {
+    transform: rotate(-45deg);
+}
+
+
+.cardbox:hover #characterdetail {
+    transform: rotate(-45deg) translateY(30px) translatex(55px)
+
+}
+
+
+.Grass{
+   
+    background-color:lightgreen;
+}
+.Water{
+    background-color: lightblue;
+}
+.Fire{
+    background-color: rgba(254, 91, 4, 0.545);
+}
+.Poison{
+    background-color: rgba(188, 160, 222, 0.848);
+}
+.Bug{
+    background-color: rgba(121, 216, 200, 0.848);
+}
+.Normal{
+    background-color: rgb(203, 181, 151);
+}
+.Ground{
+    background-color: rgb(176, 222, 97);
+}
+.Electric{
+    background-color: rgb(219, 205, 80);
+}
+.Dragon{
+    background-color: rgb(230, 165, 165);
+}
+.Ice{
+    background-color: rgb(226, 227, 220);
+}
+.Fighting{
+    background-color: rgb(162, 148, 151);
+}
+.Fairy{
+    background-color: rgb(228, 157, 173);
+}
+.Ghost{
+    background-color: rgb(134, 127, 128);
+}
