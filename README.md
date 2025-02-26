@@ -4,16 +4,19 @@ A simple Pokédex web application built using HTML, CSS, and JavaScript. This pr
 
 Screenshots
 
-Full Page Vie
+Full Page View
+Pokedex photo 1.png
 
 
 
 Hover Effect
 
+Pokedexphoto2.png
+
 
 
 Search Functionality
-
+Pokedexphoto3.png
 
 
 (Replace link-to-... with actual image URLs from your repository)
