@@ -1,43 +1,46 @@
-Pokédex
+Pokédex ⚡
 
-A simple Pokédex web application built using HTML, CSS, and JavaScript. This project allows users to search for Pokémon and view their names.
+A simple Pokédex web application built using HTML, CSS, and JavaScript. This project allows users to search for Pokémon and view their names. 🐉
 
-Screenshots
+📸 Screenshots
 
-
+🌍 Full Page View
 ![Full Page View](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto1.png)
 
+
+✨ Hover Effect
 ![Hover Effect](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto2.png)
 
+
+🔍 Search Functionality
 ![Search Functionality](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto3.png)
 
 
-Features
+🚀 Features:-
 
-Displays a list of Pokémon names.
+🎯 Displays a list of Pokémon names.
 
-Search functionality to find specific Pokémon.
+🔎 Search functionality to find specific Pokémon.
 
-Hover effects for an interactive experience.
+🖱️ Hover effects for an interactive experience.
 
-Fully responsive design.
+📱 Fully responsive design.
 
-Technologies Used
+🛠️ Technologies Used:-
 
-HTML
+🏗️ HTML
 
-CSS
+🎨 CSS
 
-JavaScript
+⚙️ JavaScript
 
 
+🔮 Future Improvements:-
 
-Future Improvements
+🔄 Convert the project to React.js.
 
-Convert the project to React.js.
+📜 Add more details about each Pokémon.
 
-Add more details about each Pokémon.
+🔗 Implement API integration for real-time data.
 
-Implement API integration for real-time data.
-
-Feel free to contribute or give feedback! 😊
+Feel free to ⭐ the repo and contribute! 😊
