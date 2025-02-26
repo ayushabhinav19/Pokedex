@@ -5,21 +5,17 @@ A simple Pokédex web application built using HTML, CSS, and JavaScript. This pr
 Screenshots
 
 Full Page View
-Pokedex photo 1.png
-
+https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto1.png
 
 
 Hover Effect
-
-Pokedexphoto2.png
-
+https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto2.png
 
 
 Search Functionality
-Pokedexphoto3.png
+https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto3.png
 
 
-(Replace link-to-... with actual image URLs from your repository)
 
 Features
 
@@ -39,17 +35,7 @@ CSS
 
 JavaScript
 
-How to Run
 
-Clone the repository:
-
-git clone https://github.com/yourusername/pokedex.git
-
-Open the index.html file in a web browser.
-
-Live Demo
-
-Live Demo Link
 
 Future Improvements
 
@@ -58,11 +44,5 @@ Convert the project to React.js.
 Add more details about each Pokémon.
 
 Implement API integration for real-time data.
-
-Author
-
-Your Name
-
-GitHub: @yourusername
 
 Feel free to contribute or give feedback! 😊
