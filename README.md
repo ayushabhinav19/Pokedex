@@ -4,17 +4,12 @@ A simple Pokédex web application built using HTML, CSS, and JavaScript. This pr
 
 Screenshots
 
-Full Page View
-https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto1.png
 
+![Full Page View](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto1.png)
 
-Hover Effect
-https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto2.png
+![Hover Effect](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto2.png)
 
-
-Search Functionality
-https://github.com/ayushabhinav19/Pokedex/blob/master/Pokedexphoto3.png
-
+![Search Functionality](https://raw.githubusercontent.com/ayushabhinav19/Pokedex/master/Pokedexphoto3.png)
 
 
 Features
